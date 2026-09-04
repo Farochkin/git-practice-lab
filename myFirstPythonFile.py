@@ -1,3 +1,8 @@
-#Display output
+#Display current time
 
-print('My New Python File is created.')
+from datetime import datetime
+
+current_time = datetime.now()
+
+print("Current time:", current_time.strftime("%I:%M:%S %p"))
+
