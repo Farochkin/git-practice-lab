@@ -29,3 +29,8 @@ The purpose of this repository is to practice version control and understand how
 ## Progress
 
 This repository will be updated as I continue learning and practicing new Git and GitHub concepts.
+
+
+## Branch Practice
+
+This change was made on the Developer branch to practice Git branching.
